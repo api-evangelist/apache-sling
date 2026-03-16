@@ -1,0 +1,35 @@
+aid: apache-sling
+name: Apache Sling
+description: >-
+  Apache Sling is a RESTful web framework built on top of the Java Content Repository (JCR). It maps HTTP requests to content resources and uses scripts or servlets to process requests, forming the foundation of Adobe Experience Manager.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Web Framework
+  - REST
+  - JCR
+  - Content Management
+  - Java
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/apache-sling/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: apache-sling:apache-sling
+    name: Apache Sling
+    description: >-
+      Sling provides a RESTful resource-based API for content management, a Servlet API for request processing, a Scripting API supporting multiple languages (JSP, HTL, Groovy), and a Resource API for JCR content access.
+    humanURL: https://sling.apache.org/documentation.html
+    tags:
+      - REST
+      - Java
+      - Content Management
+    properties:
+      - type: Documentation
+        url: https://sling.apache.org/documentation.html
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
