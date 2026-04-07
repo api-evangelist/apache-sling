@@ -7,11 +7,11 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Web Framework
-  - REST
-  - JCR
   - Content Management
   - Java
+  - JCR
+  - REST
+  - Web Framework
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -24,9 +24,9 @@ apis:
       Sling provides a RESTful resource-based API for content management, a Servlet API for request processing, a Scripting API supporting multiple languages (JSP, HTL, Groovy), and a Resource API for JCR content access.
     humanURL: https://sling.apache.org/documentation.html
     tags:
-      - REST
-      - Java
       - Content Management
+      - Java
+      - REST
     properties:
       - type: Documentation
         url: https://sling.apache.org/documentation.html
