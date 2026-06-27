@@ -109,7 +109,7 @@ common:
     url: https://www.apache.org/licenses/
   - type: FAQ
     url: https://cwiki.apache.org/confluence/display/SLING/
-  - type: SDK
+  - type: SDKs
     url: https://search.maven.org/search?q=org.apache.sling
     title: Maven Central Packages
   - type: Features
