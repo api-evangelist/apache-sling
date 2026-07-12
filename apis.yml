@@ -91,6 +91,10 @@ apis:
         url: https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html
 
 common:
+  - type: VulnerabilityDisclosure
+    url: security/apache-sling-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/apache-sling-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/apache/sling-org-apache-sling-api
   - type: GitHubRepository
