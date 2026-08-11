@@ -103,6 +103,13 @@ apis:
         url: https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html
 
 common:
+  - type: CodeOfConduct
+    url: https://github.com/apache/sling/blob/master/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/apache/sling/blob/master/CONTRIBUTING.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/apache/sling/blob/master/LICENSE
   - type: VulnerabilityDisclosure
     url: security/apache-sling-vulnerability-disclosure.yml
   - type: DomainSecurity
