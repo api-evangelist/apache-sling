@@ -36,7 +36,7 @@ created: '2026-03-16'
 modified: '2026-04-19'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/apache-sling/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: apache-sling:apache-sling-resource-api
     name: Apache Sling Resource API
