@@ -30,6 +30,15 @@ tags:
   - OSGi
   - REST
   - Web Framework
+  - Open-Source
+  - Adobe Experience Manager
+tags_raw:
+  - Content Management
+  - Java
+  - JCR
+  - OSGi
+  - REST
+  - Web Framework
   - Open Source
   - Adobe Experience Manager
 created: '2026-03-16'
@@ -93,6 +102,12 @@ apis:
       Web Console integration.
     humanURL: https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html
     tags:
+      - Event
+      - Job
+      - Async
+      - OSGi
+      - Workflows
+    tags_raw:
       - Events
       - Jobs
       - Async
