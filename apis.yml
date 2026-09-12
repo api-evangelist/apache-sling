@@ -131,6 +131,8 @@ apis:
         url: https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html
 
 common:
+  - type: Website
+    url: https://www.apache.org/
   - type: CodeOfConduct
     url: https://github.com/apache/sling/blob/master/CODE_OF_CONDUCT.md
   - type: ContributionGuide
